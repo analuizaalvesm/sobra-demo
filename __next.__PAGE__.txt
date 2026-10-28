@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:"/sobra-demo/_next/static/chunks/2d0tr_yq_0oze.js"
+3:"/sobra-demo/_next/static/chunks/35pxeh-tguvap.js"
+4:I[27592,["$2","$3"],"Providers"]
+5:"/sobra-demo/_next/static/chunks/3_73dzr0k9fli.js"
+6:I[39756,["$5"],"default"]
+7:I[37457,["$5"],"default"]
+8:I[69907,["$2","$3"],"ThemeToggle"]
+c:"/sobra-demo/_next/static/chunks/1_y0hl_ld5e7-.js"
+d:"/sobra-demo/_next/static/chunks/15y-7rhyub5qj.js"
+e:I[21256,["$2","$3","$c","$d"],"ScrollProgress"]
+f:I[90833,["$2","$3","$c","$d"],"Logo"]
+10:I[22016,["$2","$3","$c","$d"],""]
+11:I[91364,["$2","$3","$c","$d"],"Hero"]
+28:"ViewportBoundary"
+29:I[97367,["$5"],"$28"]
+2a:"MetadataBoundary"
+2b:I[97367,["$5"],"$2a"]
+2c:"$Sreact.suspense"
+:HL["/sobra-demo/_next/static/chunks/3bm0lggir53yq.css","style"]
+:HL["/sobra-demo/_next/static/chunks/2o6d17317d4dj.css","style"]
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Sobra\",\"applicationCategory\":\"FinanceApplication\",\"operatingSystem\":\"Web\",\"inLanguage\":\"pt-BR\",\"description\":\"Planeje o mês, monte sua reserva e comece a investir. Sem conectar seu banco.\",\"offers\":[{\"@type\":\"Offer\",\"name\":\"Sobra de bolso\",\"price\":\"0\",\"priceCurrency\":\"BRL\"},{\"@type\":\"Offer\",\"name\":\"Sobra inteira (mensal)\",\"price\":\"14.90\",\"priceCurrency\":\"BRL\"},{\"@type\":\"Offer\",\"name\":\"Sobra inteira (anual)\",\"price\":\"99.90\",\"priceCurrency\":\"BRL\"}]}"}}],["$","$Le",null,{}],["$","div",null,{"className":"_5o0ghG_band","children":[["$","i",null,{"className":"_5o0ghG_big","aria-hidden":"true"}],["$","i",null,{"className":"_5o0ghG_small","aria-hidden":"true"}],[["$","header",null,{"className":"wrap JyXFBG_nav","children":[["$","a",null,{"href":"#topo","className":"JyXFBG_logo","aria-label":"Sobra, início","children":["$","$Lf",null,{"animated":true,"accent":"var(--lime)"}]}],["$","nav",null,{"aria-label":"Principal","children":["$","ul",null,{"className":"JyXFBG_links","children":[[["$","li","#como",{"className":"JyXFBG_hideMobile","children":["$","a",null,{"href":"#como","children":"Como funciona"}]}],["$","li","#planejar",{"className":"JyXFBG_hideMobile","children":["$","a",null,{"href":"#planejar","children":"Planejar"}]}],["$","li","#metas",{"className":"JyXFBG_hideMobile","children":["$","a",null,{"href":"#metas","children":"Metas"}]}],["$","li","#investir",{"className":"JyXFBG_hideMobile","children":["$","a",null,{"href":"#investir","children":"Investir"}]}],["$","li","#recursos",{"className":"JyXFBG_hideMobile","children":["$","a",null,{"href":"#recursos","children":"Recursos"}]}],["$","li","#preco",{"className":"JyXFBG_hideMobile","children":["$","a",null,{"href":"#preco","children":"Preço"}]}]],["$","li",null,{"children":["$","$L10",null,{"href":"/entrar","children":"Entrar"}]}],["$","li",null,{"children":["$","$L10",null,{"className":"btn btn-lime JyXFBG_cta","href":"/criar-conta","children":"Começar grátis"}]}]]}]}]]}],["$","$L11",null,{}],["$","div",null,{"className":"mxKuMW_strip","children":["$","ul",null,{"className":"wrap mxKuMW_list","aria-label":"Por que dá para começar hoje","children":[["$","li","Sem conectar banco",{"children":["$L12","Sem conectar banco"]}],"$L13","$L14"]}]}]]]}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"],["$L23","$L24","$L25"],"$L26"]}],"p":"$@27","v":null,"s":"$a"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/sobra-demo/_next/static/chunks/3bm0lggir53yq.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/sobra-demo/_next/static/chunks/2o6d17317d4dj.css","precedence":"next"}],["$","script","script-0",{"src":"/sobra-demo/_next/static/chunks/2d0tr_yq_0oze.js","async":true}],["$","script","script-1",{"src":"/sobra-demo/_next/static/chunks/35pxeh-tguvap.js","async":true}]],["$","html",null,{"lang":"pt-BR","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(localStorage.getItem('sobra-theme')==='dark')document.documentElement.dataset.theme='dark'}catch(e){}"}}]}],["$","body",null,{"suppressHydrationWarning":true,"children":["$","$L4",null,{"children":[["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L8",null,{}]]}]}]]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L29",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2d3bff"}]]}],["$","$L2b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sobra: Planejamento Financeiro Pessoal"}],["$","meta","1",{"name":"description","content":"Planeje o mês, monte sua reserva e comece a investir. Sem conectar seu banco."}],["$","link","2",{"rel":"canonical","href":"https://analuizaalvesm.github.io/sobra-demo/"}],["$","meta","3",{"property":"og:title","content":"Sobra: Planejamento Financeiro Pessoal"}],["$","meta","4",{"property":"og:description","content":"Planeje o mês, monte sua reserva e comece a investir. Sem conectar seu banco."}],["$","meta","5",{"property":"og:url","content":"https://analuizaalvesm.github.io/sobra-demo/"}],["$","meta","6",{"property":"og:site_name","content":"Sobra"}],["$","meta","7",{"property":"og:locale","content":"pt_BR"}],["$","meta","8",{"property":"og:image","content":"https://analuizaalvesm.github.io/sobra-demo/opengraph-image?43c3eea2a9a8362f"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Sobra: planeje o mês, monte sua reserva e comece a investir. Sem conectar seu banco."}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Sobra: Planejamento Financeiro Pessoal"}],["$","meta","16",{"name":"twitter:description","content":"Planeje o mês, monte sua reserva e comece a investir. Sem conectar seu banco."}],["$","meta","17",{"name":"twitter:image","content":"https://analuizaalvesm.github.io/sobra-demo/opengraph-image?43c3eea2a9a8362f"}],["$","meta","18",{"name":"twitter:image:alt","content":"Sobra: planeje o mês, monte sua reserva e comece a investir. Sem conectar seu banco."}],["$","meta","19",{"name":"twitter:image:type","content":"image/png"}],"$L2d","$L2e","$L2f","$L30"]}]}],null]}],null]}],"p":"$@31","v":null,"s":"$a"}},"a":"$@32","u":"$@33","b":"gLDUVvr9aq2c9tBcn4Rs0"}
+34:I[23789,["$2","$3","$c","$d"],"HowItWorks"]
+35:I[19346,["$2","$3","$c","$d"],"CaptureStrip"]
+36:I[59231,["$2","$3","$c","$d"],"Planner"]
+37:I[82121,["$2","$3","$c","$d"],"Reserve"]
+38:I[17798,["$2","$3","$c","$d"],"GoalsTeaser"]
+39:I[59129,["$2","$3","$c","$d"],"Invest"]
+3a:I[4042,["$2","$3","$c","$d"],"Features"]
+3b:I[45505,["$2","$3","$c","$d"],"PrivacyStrip"]
+3c:I[98960,["$2","$3","$c","$d"],"Pricing"]
+3d:I[7254,["$2","$3","$c","$d"],"Faq"]
+3e:I[76464,["$2","$3","$c","$d"],"Reveal"]
+3f:I[676,["$2","$3","$c","$d"],"Footer"]
+40:I[73111,["$2","$3","$c","$d"],"GoalsModal"]
+41:I[42808,["$2","$3","$c","$d"],"ResourcesModal"]
+42:I[97367,["$5"],"OutletBoundary"]
+44:I[54500,["$5"],"IconMark"]
+:HL["/sobra-demo/_next/static/chunks/21dievfbxh_vh.css","style"]
+12:["$","svg",null,{"width":"22","height":"22","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M3 10h18 M5 10v8 M9.5 10v8 M14.5 10v8 M19 10v8 M3 21h18 M12 3l9 5H3z M4 4l16 16"}]}]
+13:["$","li","Dados no seu aparelho",{"children":[["$","svg",null,{"width":"22","height":"22","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M7 3h10a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z M11 18h2 M9.5 10.5l2 2 3.5-3.5"}]}],"Dados no seu aparelho"]}]
+14:["$","li","Grátis no essencial, sem limite",{"children":[["$","svg",null,{"width":"22","height":"22","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18z M8.5 12.5l2.5 2.5 4.5-5"}]}],"Grátis no essencial, sem limite"]}]
+15:["$","$L34",null,{}]
+16:["$","$L35",null,{}]
+17:["$","$L36",null,{}]
+18:["$","div",null,{"className":"band-alt","children":["$","$L37",null,{}]}]
+19:["$","$L38",null,{}]
+1a:["$","$L39",null,{}]
+1b:["$","$L3a",null,{}]
+1c:["$","$L3b",null,{}]
+1d:["$","div",null,{"className":"band-alt","children":["$","$L3c",null,{}]}]
+1e:["$","$L3d",null,{}]
+1f:["$","section",null,{"className":"lh50oa_band","aria-labelledby":"cta-final","children":[["$","i",null,{"className":"lh50oa_big","aria-hidden":"true"}],["$","i",null,{"className":"lh50oa_small","aria-hidden":"true"}],["$","div",null,{"className":"wrap lh50oa_inner","children":[["$","$L3e",null,{"children":["$","h2",null,{"id":"cta-final","className":"display lh50oa_title","children":"Seu primeiro mês planejado começa hoje."}]}],["$","$L3e",null,{"delay":0.1,"className":"lh50oa_side","children":[["$","p",null,{"children":"Grátis, sem cartão de crédito e sem conectar banco."}],["$","div",null,{"className":"lh50oa_actions","children":[["$","$L10",null,{"className":"btn btn-lime lh50oa_cta","href":"/criar-conta","children":"Começar grátis"}],["$","$L10",null,{"className":"lh50oa_link","href":"/planos","children":"Ver os planos →"}]]}]]}]]}]]}]
+20:["$","$L3f",null,{}]
+21:["$","$L40",null,{}]
+22:["$","$L41",null,{}]
+23:["$","link","0",{"rel":"stylesheet","href":"/sobra-demo/_next/static/chunks/21dievfbxh_vh.css","precedence":"next"}]
+24:["$","script","script-0",{"src":"/sobra-demo/_next/static/chunks/1_y0hl_ld5e7-.js","async":true}]
+25:["$","script","script-1",{"src":"/sobra-demo/_next/static/chunks/15y-7rhyub5qj.js","async":true}]
+26:["$","$L42",null,{"children":["$","$2c",null,{"name":"Next.MetadataOutlet","children":"$@43"}]}]
+2d:["$","meta","20",{"name":"twitter:image:width","content":"1200"}]
+2e:["$","meta","21",{"name":"twitter:image:height","content":"630"}]
+2f:["$","link","22",{"rel":"icon","href":"/sobra-demo/icon.svg?icon.447h9r892c911.svg","sizes":"any","type":"image/svg+xml"}]
+30:["$","$L44","23",{}]
+a:300
+43:null
+33:true
+a:C
+32:0
+9:"$undefined"
+31:"$undefined"
+27:"$undefined"

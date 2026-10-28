@@ -1,0 +1,7 @@
+:HL["/sobra-demo/_next/static/chunks/3bm0lggir53yq.css","style"]
+:HL["/sobra-demo/_next/static/chunks/2o6d17317d4dj.css","style"]
+:HC["/",""]
+:HL["/sobra-demo/_next/static/chunks/41rgd6bcqmja5.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"termos","h":96,"c":"$Q2"}]]
+0:{"b":"gLDUVvr9aq2c9tBcn4Rs0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
