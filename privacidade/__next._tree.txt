@@ -1,7 +1,7 @@
-:HL["/sobra-demo/_next/static/chunks/3bm0lggir53yq.css","style"]
-:HL["/sobra-demo/_next/static/chunks/2o6d17317d4dj.css","style"]
+:HL["/sobra-demo/_next/static/chunks/3tk3_hog_ym1g.css","style"]
+:HL["/sobra-demo/_next/static/chunks/209qnss11ed2x.css","style"]
 :HC["/",""]
-:HL["/sobra-demo/_next/static/chunks/41rgd6bcqmja5.css","style"]
+:HL["/sobra-demo/_next/static/chunks/08ghzkgonnu8n.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"privacidade","h":96,"c":"$Q2"}]]
-0:{"b":"gLDUVvr9aq2c9tBcn4Rs0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VsygtHV5biZi0-5XjaN9J","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
