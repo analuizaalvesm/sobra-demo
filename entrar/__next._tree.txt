@@ -1,6 +1,6 @@
-:HL["/sobra-demo/_next/static/chunks/272necql43_kh.css","style"]
-:HL["/sobra-demo/_next/static/chunks/0cyyb5z5lvssy.css","style"]
+:HL["/sobra-demo/_next/static/chunks/0ow3kli028uux.css","style"]
+:HL["/sobra-demo/_next/static/chunks/048rf7ac3jzw9.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"entrar","h":96,"c":"$Q2"}]]
-0:{"b":"ZwIInUi_xUTQHHPfX-1zd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"MbpuDUSWoxOEceHhfPSvr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
