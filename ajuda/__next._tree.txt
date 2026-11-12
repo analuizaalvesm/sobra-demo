@@ -5,4 +5,4 @@
 :HL["/sobra-demo/_next/static/chunks/20mn38cfnl84d.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"ajuda","h":96,"c":"$Q2"}]]
-0:{"b":"w9TZjTLhgjYZQayTAHDbZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"dRHYhSX0pMg_T-HLSRnh1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
