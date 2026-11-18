@@ -25,7 +25,7 @@ Um jeito mais simples de organizar seu dinheiro, acompanhar seus gastos e planej
 <br />
 
 > [!NOTE]
-> O Sobra ainda está em fase de testes. Seus dados ficam salvos localmente no navegador, sem envio para servidores. Se limpar os dados do navegador, você pode perder suas informações. Para evitar isso, faça um backup em **Configurações**.
+> O Sobra ainda está em fase de testes. A demo mostra o site; a área logada (criar conta e entrar) ainda não está aberta ao público, porque a conta passou a morar no servidor da Sobra e ele ainda não foi publicado.
 
 ## Funcionalidades
 
@@ -37,9 +37,8 @@ Um jeito mais simples de organizar seu dinheiro, acompanhar seus gastos e planej
 
 ## Começando
 
-1. Acesse a [demo](https://analuizaalvesm.github.io/sobra-demo/) e clique em **Começar grátis**.
-2. Crie sua conta e informe sua renda, data de pagamento, contas e reserva inicial.
-3. Registre seus gastos, importe um extrato ou fatura (OFX/CSV) e comece a organizar suas metas.
+1. Acesse a [demo](https://analuizaalvesm.github.io/sobra-demo/) e passeie pelo site: o mês de exemplo, a divisão do salário, a reserva, a simulação de metas e os planos.
+2. Quando o servidor for publicado, **Começar grátis** cria a conta e leva para o app.
 
 <br />
 

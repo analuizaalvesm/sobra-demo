@@ -1,10 +1,10 @@
 :HL["/sobra-demo/_next/static/chunks/0ow3kli028uux.css","style"]
-:HL["/sobra-demo/_next/static/chunks/1egjlg77mkks3.css","style"]
-:HL["/sobra-demo/_next/static/chunks/0_ejh06jeg00r.css","style"]
-:HL["/sobra-demo/_next/static/chunks/3i825vc5n6022.css","style"]
+:HL["/sobra-demo/_next/static/chunks/3xm_utrxui2g7.css","style"]
+:HL["/sobra-demo/_next/static/chunks/1790r70sts36g.css","style"]
+:HL["/sobra-demo/_next/static/chunks/32ozliom9e8ua.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"licao","t":"d","k":"cdb","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"trilha","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"app","h":96,"c":"$Q2"}]]
-0:{"b":"Jg6VRKqIAwalfLQ1Z_Wqn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"drYVMl6exlYuZucnp_kP5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
