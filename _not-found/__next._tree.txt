@@ -2,4 +2,4 @@
 :HL["/sobra-demo/_next/static/chunks/3xm_utrxui2g7.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"ZugNekrpSZWHVTMMANUpA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1D9oPHEZ4WFuvaFDP3BNx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
